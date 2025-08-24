@@ -1,6 +1,6 @@
 # 🔑 Identity & Access Management – Mini Company Directory (Entra ID Free Tier)
 
-## 📌 Project Overview
+## 📌 Project - 01 Overview
 This project simulates a small company's **Identity & Access Management (IAM)** setup using  
 **Microsoft Entra ID Free (Azure for Students)**.  
 It demonstrates how to manage identities, enforce RBAC, and export directory data in a cloud environment.
