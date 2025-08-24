@@ -1,0 +1,5 @@
+﻿id,displayName,groupType,membershipType,source,mail,securityEnabled,mailEnabled,isAssignableToRole,onPremisesSyncEnabled
+1cd8489f-778b-4f3d-b1f1-9d970318105b,Finance,Security,Assigned,Cloud,,True,False,False,
+3e581161-fcda-4467-bac5-ccf9420b68da,HR,Security,Assigned,Cloud,,True,False,False,
+90d87653-9399-4ec2-872a-a7ffd80c44ac,Developers,Security,Assigned,Cloud,,True,False,False,
+a2069ab2-edf9-4a3d-9e59-2f8a9e530a95,IT Support,Security,Assigned,Cloud,,True,False,False,
